@@ -274,6 +274,7 @@ header {
   background-size: contain;
   background-repeat: no-repeat;
   margin-left: 135px;
+  cursor:pointer;
 }
 /* try_out_left_content end */
 
@@ -298,6 +299,7 @@ header {
   height: 192px;
   background-repeat: no-repeat;
   padding-bottom: 36px;
+  cursor:pointer;
 }
 /* try_out_right_top end here */
 
@@ -308,6 +310,7 @@ header {
   background-image: url("../images/s1-buger3.png");
   height: 192px;
   background-repeat: no-repeat;
+  cursor:pointer;
 }
 
 .s2_text {
