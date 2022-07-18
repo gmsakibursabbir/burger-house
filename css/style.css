@@ -765,7 +765,7 @@ form {
 
 footer {
   margin-bottom: 80px;
-  background-image: url("images/footer-bg.png");
+  background-image: url("../footer-bg.png");
   background-repeat: no-repeat;
   width: 100%;
   background-size: cover;
